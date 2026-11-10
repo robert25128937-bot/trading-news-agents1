@@ -1,0 +1,6 @@
+streamlit
+crewai
+langchain-openai
+requests
+pandas
+psycopg2-binary
